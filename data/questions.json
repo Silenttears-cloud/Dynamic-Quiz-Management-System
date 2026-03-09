@@ -1,0 +1,15 @@
+[
+  {
+    "question": "who is the prime minister of india?",
+    "options": [
+      "nitish",
+      "mohammad",
+      "narendra",
+      "draupadi"
+    ],
+    "answer": 3,
+    "category": "General",
+    "difficulty": "hard",
+    "hint": "4"
+  }
+]

@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "F:\Dynamic Quiz Management System\main.py", line 9, in <module>
+    from admin.admin_panel import admin_menu
+  File "F:\Dynamic Quiz Management System\admin\__init__.py", line 1, in <module>
+    undefined
+NameError: name 'undefined' is not defined

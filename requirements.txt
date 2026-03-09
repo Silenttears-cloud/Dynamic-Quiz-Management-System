@@ -1,0 +1,8 @@
+# Required dependencies
+colorama==0.4.6
+fpdf2==2.8.1
+
+
+
+
+
